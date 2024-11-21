@@ -1,0 +1,125 @@
+body {
+    background-color: rgb(243, 229, 216);
+    /* padding: 0;
+    margin: 0; */
+    justify-content: center;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mainContainer {
+    margin-top: 6px;
+    border-radius: 15px;
+    justify-content: center;
+    display: grid;
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+.mainContainer img {
+    width: 730px;
+    height: 300px;
+    border-radius: 6px;
+    margin-top: 25px;
+    justify-content: center;
+    display: flex;
+    margin-left: 35px;
+}
+
+.mainContainer p {
+    margin-top: 5px;
+    margin-bottom: 23px;
+    font-size: 14px;
+    margin-left: 50px;
+    color: rgb(44, 40, 40);
+
+}
+
+.mainContainer h1 {
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(57, 48, 48);
+
+}
+
+.time {
+    background-color: rgb(243, 235, 240);
+    margin-left: 50px;
+    margin-right: 40px;
+    border-radius: 5px;
+    justify-content: center;
+
+}
+
+.time h3 {
+
+    padding-left: 15px;
+    font-size: 17px;
+    color: rgb(122, 58, 87);
+}
+
+ul li {
+
+    padding: 7px;
+    color: rgb(118, 112, 112);
+
+}
+
+.ingredients h2 {
+    font-size: 26px;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(78, 56, 46);
+}
+
+.ingredients ul li {
+    padding: 7px;
+    margin-left: 30px;
+    color: rgb(78, 56, 46);
+
+}
+
+
+
+hr {
+    color: rgb(108, 98, 98);
+    width: 700px;
+    border-radius: 10px;
+}
+
+.instructions h2 {
+    font-size: 26px;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(78, 56, 46);
+}
+
+
+.instructions ol li {
+    padding: 10px;
+    margin-left: 30px;
+    color: rgb(78, 56, 46);
+
+}
+
+
+.nutrition h2 {
+    font-size: 27px;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(78, 56, 46);
+
+}
+
+table  tr td {
+    text-align: center;
+    margin-left: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(78, 56, 46);
+    font-size: large;
+
+}
+
+

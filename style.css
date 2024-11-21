@@ -1,0 +1,51 @@
+body {
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif  ; 
+    background-color: rgb(167, 41, 42);
+    justify-content: center;
+    margin: 1;
+  padding: 1;
+}
+
+
+
+
+
+.PersonalData {
+    background-color: rgb(77, 147, 178);
+    justify-content: center;
+    text-align: center;
+    display: grid;
+
+    width: 180px;
+
+}
+
+.YourName {
+    background-color: rgb(77, 147, 178);
+    justify-content: center; 
+    text-align: center;
+    width: 100px;
+    display: grid;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.container1
+{
+    background-color:rgb(219, 165, 33) ;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+/* .container2
+{
+
+} */
+
+.inp{
+
+    display: flex;
+
+}
